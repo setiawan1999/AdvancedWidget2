@@ -14,18 +14,15 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Nama" />
-
     <EditText
         android:id="@+id/editTextNama"
-        android:layout_width="226dp"
+        android:layout_width="352dp"
         android:layout_height="wrap_content" />
-
     <Button
         android:id="@+id/buttonProses"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Proses" />
-
     <TextView
         android:id="@+id/textViewHasil"
         android:layout_width="wrap_content"
